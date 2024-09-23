@@ -1,7 +1,5 @@
 # Ecommerce Product Page
 
-- Live website -(https://cpwd-ecommerce-product-page.netlify.app/)
-
 ## Table of contents
 
 - [The challenge](#the-challenge)
@@ -22,13 +20,7 @@ Users should be able to:
 - Add items to the cart
 - View the cart and remove items from it
 
-## My process
-
-### Screenshot
-
-![final-dk-prev](https://user-images.githubusercontent.com/85038929/140659041-5314092b-0ee4-4ba0-966e-22f35c9c3873.JPG)
-
-![mobile-design](https://user-images.githubusercontent.com/85038929/140659087-32a2bfe5-ee89-47ca-9a02-2c480d7268bd.jpg)
+## My pr
 
 ### Built with
 
