@@ -26,17 +26,17 @@ export default function Footer() {
 			<div class="attribution">
 				Challenge by{" "}
 				<Link
-					to={{ pathname: "https://www.frontendmentor.io/profile/Carlos-A-P" }}
+					to={{ pathname: "https://orinson.com/" }}
 					target="_blank"
 				>
-					Frontend Mentor
+					Orinson Technology
 				</Link>
 				. Coded by{" "}
 				<Link
-					to={{ pathname: "https://carlospwd.netlify.app/" }}
+					to={{ pathname: "https://www.linkedin.com/in/vivek-tiwari-290224283/" }}
 					target="_blank"
 				>
-					Carlos Perez
+					Vivek Tiwari
 				</Link>
 				.
 			</div>
